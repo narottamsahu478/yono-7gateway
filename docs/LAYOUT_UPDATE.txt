@@ -1,0 +1,1 @@
+9 balance cards: 4x2 + SpyEye full-height. P5=OTP India balance (getBalance). P6-P8 placeholders. Existing provider endpoints unchanged. OTP India endpoint is read-only. API keys remain server-side.
